@@ -580,6 +580,7 @@ button:hover {
   }
   .photos2 {
     grid-gap: 10px; /* Further reduced grid gap for smaller screens */
+    margin-left: 30px;
   }
   .section-title4{
     margin-top: 50px;
